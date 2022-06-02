@@ -1,0 +1,1 @@
+# Test-gestion-operativa
